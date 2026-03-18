@@ -9,7 +9,7 @@ Funcionalidades
  Tecnologías
 - Frontend: HTML, CSS, JavaScript
 - Backend: Node.js, Express
-- Base de datos: (completá esto)
+- Base de datos: SQL | DBeaver
 
 Estructura
 - `/client` → frontend
