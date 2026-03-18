@@ -1,0 +1,13 @@
+
+
+- Tiene que andar el login para los usuarios que no tengan el primer id (debería aparecer login exitoso con todos los usuarios que inician sesión)
+
+SOLUCIONADO:
+
+- El id suscriptor deberia ser autoincrement o deberiamos solucionarlo para que no tengan todos el mismo id (1)
+
+SOLUCION: el id suscriptor se elimina y solo queda el id del usuario, ya que sería el mismo número. (si se pudiera, se autoincrementarian los dos ids, dando el mismo resultado)
+
+- La suscripción activa debería poder cambiarse cuando el usuario se suscriba (no que sea siempre 0)
+
+solución parcial: cambiará cuando hagamos el endpoint.
